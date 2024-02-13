@@ -1,2 +1,2 @@
 # front
-a code repo for react and js
+a code repo
